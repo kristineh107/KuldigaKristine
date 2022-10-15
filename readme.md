@@ -2,6 +2,6 @@
 
 Lūdzu pildiet sekojošos uzdevumus pēc kārtas!
 
-- [ ] Izveidot jaunu "commit" un aizsūtīt uz GitHub!
-- [ ] Aplūkot rezultātu GitHub
-- [ ] Pievienot HTML un JS failus, veikt kommit un aizūtīt uz GitHub
+- [x] Izveidot jaunu "commit" un aizsūtīt uz GitHub!
+- [x] Aplūkot rezultātu GitHub
+- [x] Pievienot HTML un JS failus, veikt kommit un aizūtīt uz GitHub
